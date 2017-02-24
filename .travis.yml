@@ -1,0 +1,5 @@
+language: python
+
+script:
+ - py.test -v
+
